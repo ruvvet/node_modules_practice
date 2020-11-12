@@ -1,0 +1,19 @@
+{
+  "name": "node_modules_practice",
+  "version": "1.0.0",
+  "description": "node modules practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ruvvet/node_modules_practice.git"
+  },
+  "author": "jenny feng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ruvvet/node_modules_practice/issues"
+  },
+  "homepage": "https://github.com/ruvvet/node_modules_practice#readme"
+}
