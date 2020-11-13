@@ -1,5 +1,7 @@
 # Node Modules Practice
 
+For full notes : [notes][https://github.com/ruvvet/node-express]
+
 ## Libraries used:
  - [Path](https://www.npmjs.com/package/path)
  - [Colors](https://www.npmjs.com/package/colors)
